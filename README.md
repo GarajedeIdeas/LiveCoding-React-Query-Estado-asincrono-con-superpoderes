@@ -12,3 +12,9 @@ Si te has tenido que enfrentar al desarrollo de una aplicación compleja, probab
 Puedes ver la grabación completa del evento [en este enlace](https://youtu.be/vK08KlaXYlc)
 
 
+
+## Gracias
+
+Muchas gracias al equipo de Garaje de ideas por fomentar este tipo de directos y ayudar a enriquecer la comunidad.
+
+💛 Gerardo Fernández. Latte and Code.
