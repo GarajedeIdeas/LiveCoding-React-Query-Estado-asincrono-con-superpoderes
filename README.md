@@ -7,15 +7,8 @@ Si te has tenido que enfrentar al desarrollo de una aplicación compleja, probab
 
 ✱ Por suerte, desde hace unos años contamos con React Query para facilitarnos todo este proceso. Esta librería se ha posicionado como una de las principales opciones dentro del ecosistema para gestionar el estado asíncrono de nuestra aplicación.
 
-## Grabación del taller
+## Grabación de la charla
 
 Puedes ver la grabación completa del evento [en este enlace](https://youtu.be/vK08KlaXYlc)
 
 
-## Gracias
-
-Ahora sí, ya puedes construir tablas sin lágrimas con React.
-
-Muchas gracias al equipo de Garaje de Ideas por fomentar este tipo de directos y ayudar a enriquecer la comunidad.
-
-💛 Gerardo Fernández. Latte and Code.
