@@ -41,10 +41,10 @@ export default function App() {
   return (
     <QueryClientProvider client={queryClient}>
       <p>
-        The "staleTime" and "cacheTime" durations have been altered in this
-        example to show how query stale-ness and query caching work on a
-        granular level
+        {"t < staleTime: datos de la caché (si los hay)"}
       </p>
+      <p>{"staleTime < t < cacheTime: datos de la caché y petición en background para obtener datos frescos"}</p>
+      <p>{"cacheTime < t: petición en primer plano"}</p>
       <div>
         Stale Time:{" "}
         <input
